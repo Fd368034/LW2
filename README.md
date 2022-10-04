@@ -4,3 +4,9 @@
 Был добавлен фич Myfeature
 Был опубликован в Github Myfeature
 Физ был завершен
+Был добавлен релиз RELEASE
+Был опубликован в Github RELEASE
+Физ был завершен
+Был добавлен фич Myfeature
+Был опубликован в Github Myfeature
+Физ был завершен
