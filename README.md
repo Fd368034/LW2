@@ -13,3 +13,5 @@
 Был добавлен Hot-Fix
 Был опубликован в Github Myfeature
 Разработка была завершена
+Был добавлен Submodules
+Был добавлен файл LFS файл(Twitch.psd)
