@@ -1,3 +1,6 @@
 [submodule "LW2"]
 	path = LW2
 	url = https://github.com/Fd368034/LW2
+[submodule "faz1"]
+	path = faz1
+	url = https://github.com/fior098/faz1
